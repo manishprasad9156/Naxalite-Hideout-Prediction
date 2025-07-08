@@ -28,4 +28,4 @@ This tool is meant for strategic aid and not real-time operational decisions. Pr
 
 ## 📬 Contact
 
-For collaboration or queries, contact: [Your Name / Email / LinkedIn]
+For collaboration or queries, contact: manishprasad9156@gmail.com
