@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import folium
-from streamlit_folium import folium_static
+from streamlit_folium import st_folium
 import joblib
 
 # Load model and data
@@ -22,7 +22,7 @@ for _, row in df.iterrows():
         icon=folium.Icon(color='red', icon='crosshairs', prefix='fa')
     ).add_to(map1)
 
-folium_static(map1)
+st_folium(map1, width=800, height=500)
 
 # UI for prediction
 st.subheader("🧠 Predict New Hideout Location")
