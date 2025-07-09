@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+          <kml xmlns="http://www.opengis.net/kml/2.2">
+          <Document>
+          
+            <Placemark>
+              <name>Vashudev rao@takkapali satish</name>
+              <Point>
+                <coordinates>81.16334,19.1492</coordinates>
+              </Point>
+            </Placemark>
+          
+            <Placemark>
+              <name>Ranita@Jaymati</name>
+              <Point>
+                <coordinates>80.9239,19.39443</coordinates>
+              </Point>
+            </Placemark>
+          
+            <Placemark>
+              <name>Ranita@Jaymati</name>
+              <Point>
+                <coordinates>80.98643,19.30917</coordinates>
+              </Point>
+            </Placemark>
+          
+          </Document>
+          </kml>
+        
