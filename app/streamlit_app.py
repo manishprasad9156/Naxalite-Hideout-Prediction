@@ -5,7 +5,7 @@ from streamlit_folium import st_folium
 import joblib
 
 # Load model and data
-model = joblib.load("../Models/rf_model.pkl")
+model = joblib.load("rf_model.pkl")
 df = pd.read_csv("../Data/naxal_hideouts_features.csv")
 
 # Configure page
