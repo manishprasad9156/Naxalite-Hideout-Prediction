@@ -1,4 +1,4 @@
-git name,latitude,longitude,date_range,elevation,distance_to_village
+name,latitude,longitude,date_range,elevation,distance_to_village
 Vashudev rao@takkapali satish,19.12562,81.14555,2025-06-01_to_2025-06-10,479.0,32.24349659243268
 Ranita@Jaymati,19.38255,80.88472,2025-06-01_to_2025-06-10,475.0,7.747185733404711
 Ranita@Jaymati,19.37888,80.96871,2025-06-01_to_2025-06-10,788.0,3.752888940684075

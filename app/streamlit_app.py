@@ -18,7 +18,7 @@ m = folium.Map(location=[df['latitude'].mean(), df['longitude'].mean()], zoom_st
 for _, row in df.iterrows():
     folium.Marker(
         location=[row['latitude'], row['longitude']],
-        popup=row['git name'],
+        popup=row['name'],
         icon=folium.Icon(color='red', icon='crosshairs', prefix='fa')
     ).add_to(m)
 # Display map using st_folium
